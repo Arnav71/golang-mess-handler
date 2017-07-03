@@ -11,7 +11,7 @@ There are steps
 
 a.Open the go file
 
-b.Replace the strings containing C:\GoCode with the path to yor Workspace
+b.Replace the strings containing C:\\\GoCode with the path to yor Workspace
 
 For Example :=
 
@@ -19,10 +19,10 @@ If my Workspace is C:\GoWork
 
 I can change it by
 
-Replacing the 24th Line with os.Chdir("C:\\GoWork)
+Replacing the 24th Line with os.Chdir("C:\\\GoWork)
 (don't forget the double backslash)
 
-Do it for every line that contains C:\\GoCode
+Do it for every line that contains C:\\\GoCode
 
 c.Save it 
 
