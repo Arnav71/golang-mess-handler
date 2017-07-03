@@ -4,7 +4,9 @@ Golang Mess Handler is just a go file which automatically "creates" the projects
 # Seriously?
 Yes guys the Golang Mess Handler is a silly project but it was made for lazy people(like me) in mind.
 # Well how do i install it?
-There are a steps 
+There are steps 
+1. Download it
+
 2.If your go workspace isn't C:\GoCode then you have to edit it 
 
 a.Open the go file
@@ -24,15 +26,15 @@ Do it for every line that contains C:\\GoCode
 
 c.Save it 
 
-2.Create a bin directory (or any diretory) for the go file.
- 
-3.cd into the directory and build the go file with go build
+3.Create a bin directory (or any diretory) for the go file.
 
-4.Add the bin directory to the PATH environment variable.
+4.cd into the directory and build the go file with go build
 
-5.open up the cmd and type gonew
+5.Add the bin directory to the PATH environment variable.
 
-6.It should open up
+6.open up the cmd and type gonew
+
+7.It should open up
 
 # Limitations
 Only works with windows(although it can be edited to support unix)
