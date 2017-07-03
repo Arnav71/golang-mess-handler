@@ -15,7 +15,7 @@ var va string;
 fmt.Scanln(&va);
 if len(va) == 0 || va != "Y" && va != "N"{
 // its like if there is no answer or if it ain't "Y" or "N" 
-log.Fatal("Not An Affirmative Question")
+log.Fatal("Not An Affirmative Answer")
 }
 if va == "Y"{
 fmt.Print("Project Name := ")
