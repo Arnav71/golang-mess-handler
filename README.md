@@ -5,7 +5,7 @@ Golang Mess Handler is just a go file which automatically "creates" the projects
 Yes guys the Golang Mess Handler is a silly project but it was made for lazy people(like me) in mind.
 # Well how do i install it?
 There are steps 
-1. Download it
+1.Download it
 
 2.If your go workspace isn't C:\GoCode then you have to edit it 
 
