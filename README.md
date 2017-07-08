@@ -38,11 +38,11 @@ c.Save it
 7.It should open up
 
 # Limitations
-Only works with windows(although it can be edited to support unix)
+Only works with Windows (although it can be edited to support unix)
 
 # Questions or Bugs
 
 Email me at planetoid128@gmail.com
 
 # License
-This project is under the MIT Licene.
+This project is under the MIT License.
